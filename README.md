@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A passionate software developer from Brazil</h3>
 
-- 💎 I’m looking to collaborate on **Ruby on Rails projects**
-
-- 🏝 Cool project <a href="https://github.com/Perrine-Lardilleux/Nomad_Worker" target="_blank">Nomad Workers</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thiago-youssef/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-youssef/" height="30" width="40" /></a>
